@@ -24,9 +24,19 @@ Soft Skills: Communication, mentoring, teamwork, cross-cultural collaboration, l
 ## Featured Projects
 
 
-Research Assistance:(with Dr.Wu at American University)
-Detecting the Use of Generative Large Language Models by Survey Participants — Scraped and audited TESS surveys, built LLM vs. human text dataset with demographic metadata for bias analysis.
 
+- Detecting the Use of Generative Large Language Models by Survey Participants (With Dr.Wu at American University)
+Scraped and audited TESS surveys, built LLM vs. human text dataset with demographic metadata for bias analysis.
+
+- [SynthoraAI - AI-Powered Article Content Curator](https://github.com/hoangsonww/AI-Gov-Content-Curator)
+
+- 💳 A credit risk chatbot for financial guidance (Streamlit, API, ML)
+  
+- 📝 Sentiment analysis on customer reviews (NLP, R)
+
+- 🏨 A tourist accommodation recommendation app (R Shiny, ML)
+  
+- 📊 Marketing insights for business decisions (R, Python, ML)
 
 
 ## 📫 Let’s Connect!
