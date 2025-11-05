@@ -32,7 +32,7 @@ Scraped and audited TESS surveys, built LLM vs. human text dataset with demograp
 
 - 💳 A credit risk chatbot for financial guidance (Streamlit, API, ML)
   
-- 📝 Sentiment analysis on customer reviews (NLP, R)
+- 📝 Sentiment analysis on customer reviews (NLP, Python)
 
 - 🏨 A tourist accommodation recommendation app (R Shiny, ML)
   
@@ -45,6 +45,6 @@ Scraped and audited TESS surveys, built LLM vs. human text dataset with demograp
 
 💼 [**LinkedIn**](https://www.linkedin.com/in/sally-l-794819241/)
 
-📧 Email: efh564@gmail.com
+📧 Email: efh564@gmail.com, yl0680b@american.edu
 
 ✨ “Data tells stories — I just help translate them.”
