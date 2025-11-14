@@ -18,7 +18,12 @@ Machine Learning & AI: Classification, Regression, NLP, XGBoost, Random Forest
 
 Data Handling: Cleaning, Visualization, API integration, Shiny app development
 
+Business: Customer Analysis, Market Research, Process Optimization, CRM Analytics, Financial Reporting
+
+Languages: English (fluent), Mandarin (native), Japanese (basic)
+
 Soft Skills: Communication, mentoring, teamwork, cross-cultural collaboration, leadership
+
 
 
 ## Featured Projects
